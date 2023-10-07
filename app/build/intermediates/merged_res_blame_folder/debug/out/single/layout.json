@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw3.app-mergeDebugResources-27:\\layout\\activity_input.xml",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw3.app-main-30:\\layout\\activity_input.xml"
+    },
+    {
+        "merged": "kz.course.justcodehw3.app-mergeDebugResources-27:/layout/activity_timer.xml",
+        "source": "kz.course.justcodehw3.app-main-30:/layout/activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw3.app-mergeDebugResources-27:\\layout\\activity_timer.xml",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw3.app-main-30:\\layout\\activity_timer.xml"
+    }
+]

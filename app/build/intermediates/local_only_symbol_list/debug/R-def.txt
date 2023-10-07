@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_arrow_back
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id checkButton
+id contTimer
+id millisecondsText
+id pauseButton
+id resetButton
+id secondsEditText
+id secondsInput
+id secondsText
+id separatorText2
+id startButton
+id startTimerButton
+layout activity_input
+layout activity_timer
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string say_hello
+string send_text
+style Base.Theme.JustCodeHW3
+style Theme.JustCodeHW3
+xml backup_rules
+xml data_extraction_rules

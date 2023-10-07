@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JustCodeHW3</string>
+    <string name="say_hello">Say Hello!</string>
+    <string name="send_text">Send text</string>
 </resources>

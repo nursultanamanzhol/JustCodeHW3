@@ -1,3 +1,3 @@
 # JustCodeHW3
-![Первый экран](<img src="https://github.com/nursultanamanzhol/JustCodeHW3/blob/main/Second%20screen.png" whidth = 400 >) ![Второй экран](<img src="https://github.com/nursultanamanzhol/JustCodeHW3/blob/main/Second%20screen.png" whidth = 400 >)
-
+![App Screenshot](https://github.com/nursultanamanzhol/JustCodeHW3/blob/main/First%20screen.png)
+![App Screenshot](https://github.com/nursultanamanzhol/JustCodeHW3/blob/main/Second%20screen.png)
